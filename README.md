@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I’m Jerónimo, a Systems Engineering student at EIA University with a passion for clean code, creative problem-solving, and learning by building. I love working on fullstack web apps with technologies like React, NestJS, and Supabase, and I’m currently building a Notion clone and a Tetris game in C++ with SFML. Always curious and constantly exploring new ideas, I'm especially interested in the intersection of design, functionality, and user experience. When I’m not coding, you’ll probably find me playing video games or diving into tech and anime.<br><br>
+Hey! I’m Jerónimo, a Systems Engineering student at EIA University with a passion for clean code, creative problem-solving, and learning by building. I love working on fullstack web apps with technologies like React, NestJS, and Supabase, and I’m currently building a Notion clone and a Tetris game. Always curious and constantly exploring new ideas, I'm especially interested in the intersection of design, functionality, and user experience. When I’m not coding, you’ll probably find me playing video games or diving into tech and anime.<br><br>
 
 
 ## 🌐 Socials:
