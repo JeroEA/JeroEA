@@ -52,7 +52,7 @@
   <a href="https://discord.com/users/665366929967415336" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="(mailto:jero.e.a@icloud.com)" target="_blank">
+  <a href="jero.e.a@icloud.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jer%C3%B3nimo-espinal-50903b321/" target="_blank">
