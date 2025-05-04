@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🧠 A Notion clone using NestJS, Supabase, TypeORM & React<br><br>🎮 A Tetris game built in HTML, CSS and JS<br><br>🛠️ Exploring new tools and tech to level up my dev skills</p>
+<p align="left">🧠 A Notion clone<br><br>🛠️ Exploring new tools and tech to level up my dev skills</p>
 
 ###
 
