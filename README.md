@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🧠 A Notion clone<br><br>🛠️ Exploring new tools and tech to level up my dev skills</p>
+<p align="left">🧠 A Next.js project<br><br>🛠️ Exploring new tools and tech to level up my coding skills</p>
 
 ###
 
