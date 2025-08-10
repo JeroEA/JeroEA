@@ -1,47 +1,35 @@
-<h2 align="left">Hi 👋! I’m Jerónimo, a Colombian Systems Engineering student at EIA University</h2>
+## About Me
 
-###
+👋 Hey there, I’m Jerónimo Espinal Achury I’m a Systems Engineering student at EIA University, passionate about technology, software development, and creative problem-solving. I believe in technology as a tool for exploration and creation — from building useful applications to experimenting with fun, unconventional projects. 💻 What I do Developing projects in Java, Python, Swift, JavaScript and more. Exploring macOS and iOS app development (currently working on a few quirky Mac apps). Interested in AI, automation, and interactive applications. 🎯 My goals Keep growing my full-stack development skills. Build projects that mix utility and creativity. Collaborate on open-source ideas. 🎮 Outside of code Avid gamer and anime enthusiast. Always curious about design, UX, and how to make tech more engaging.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeroEA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=JeroEA&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+## My Skills
 
-###
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
 
-<h3 align="left">🚀 What I’m working on:</h3>
+## GitHub Stats
 
-###
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=JeroEA&theme=dark&show_icons=true&count_private=true">
 
-<p align="left">🧠 A Next.js project<br><br>🛠️ Exploring new tools and tech to level up my coding skills</p>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=JeroEA&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=JeroEA&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
+## Connect with me
 
 ###
 
