@@ -1,6 +1,28 @@
 ## About Me
 
-👋 Hey there, I’m Jerónimo Espinal Achury I’m a Systems Engineering student at EIA University, passionate about technology, software development, and creative problem-solving. I believe in technology as a tool for exploration and creation — from building useful applications to experimenting with fun, unconventional projects. 💻 What I do Developing projects in Java, Python, Swift, JavaScript and more. Exploring macOS and iOS app development (currently working on a few quirky Mac apps). Interested in AI, automation, and interactive applications. 🎯 My goals Keep growing my full-stack development skills. Build projects that mix utility and creativity. Collaborate on open-source ideas. 🎮 Outside of code Avid gamer and anime enthusiast. Always curious about design, UX, and how to make tech more engaging.
+👋 Hey there, I’m Jerónimo Espinal Achury I’m a Systems Engineering student at EIA University, passionate about technology, software development, and creative problem-solving. I believe in technology as a tool for exploration and creation — from building useful applications to experimenting with fun, unconventional projects. 
+
+💻 What I do 
+
+Developing projects in Java, Python, Swift, JavaScript and more. 
+
+Exploring macOS and iOS app development (currently working on a few quirky Mac apps). 
+
+Interested in AI, automation, and interactive applications. 
+
+🎯 My goals 
+
+Keep growing my full-stack development skills. 
+
+Build projects that mix utility and creativity. 
+
+Collaborate on open-source ideas. 
+
+🎮 Outside of code 
+
+Avid gamer and anime enthusiast. 
+
+Always curious about design, UX, and how to make tech more engaging.
 
 ## My Skills
 
